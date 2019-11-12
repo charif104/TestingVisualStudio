@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CurrencyConverter.cs" />
     <Compile Include="FloatingPointsNumberWhileAdd.cs" />
+    <Compile Include="Input.cs" />
     <Compile Include="MainProgram.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
